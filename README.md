@@ -5,7 +5,7 @@
 With 2 years of experience across modern web technologies, I specialize in building scalable, efficient, and user-friendly applications. My tech stack includes: Frontend: ReactJS, NextJS, Tailwind CSS Backend: NodeJS, ExpressJS, NestJS Databases: MongoDB, MySQL, PostgreSQL DevOps & Platforms: Linux, AWS, Docker Version Control: Git, GitHub Languages & Tools: JavaScript, TypeScript, Prisma, SQL, Mongoose With a passion for solving challenging problems and delivering seamless user experiences, I strive to create efficient and maintainable solutions. Open to collaboration and always excited to learn new technologies! 🚀
 
 - 🌍  I'm based in Lahore, Pakistan
-- ✉  You can contact me at [ahsanatta96@gmail.com](mailto:ahsanatta96@gmail.com)
+- ✉  You can contact me at [ammarjavaid014@gmail.com](mailto:ammarjavaid014@gmail.com)
 - 🧠  I'm learning NextJS
 
 ### Skills
@@ -24,4 +24,4 @@ With 2 years of experience across modern web technologies, I specialize in build
 
 <a href="http://www.github.com/ammarjavaid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjavaid&theme=ocean_dark" /></a>
 
-<a href="https://github.com/ammarjavaid" align="left"><img src="https://github-readme-stats-pmx9.vercel.app/api/top-langs/?username=ammarjavaid&theme=ocean_dark&card_width=450px" /></a>
+<a href="https://github.com/ammarjavaid" align="left"><img src="https://github-readme-stats.vercel.app/api?username=ammarjavaid&theme=ocean_dark&card_width=450px" /></a>
