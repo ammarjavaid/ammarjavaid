@@ -7,7 +7,7 @@ Passionate Frontend Developer
 With 2 years of experience across modern web technologies, I specialize in building scalable, efficient, and user-friendly applications. My tech stack includes: Frontend: ReactJS, NextJS, Tailwind CSS Version Control: Git, GitHub Languages & Tools: JavaScript, TypeScript With a passion for solving challenging problems and delivering seamless user experiences, I strive to create efficient and maintainable solutions. Open to collaboration and always excited to learn new technologies! 🚀
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [ahsanatta96@gmail.com](mailto:ahsanatta96@gmail.com)
+* ✉️  You can contact me at [ammarjavaid014@gmail.com](mailto:ammarjavaid014@gmail.com)
 * 🧠  I'm learning NextJS
 
 ### Skills
